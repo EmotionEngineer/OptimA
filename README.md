@@ -211,6 +211,3 @@ The insights from the learned parameters and the possibility of deriving special
 
 ## 6. License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/EmotionEngineer/OptimA}}
-}
